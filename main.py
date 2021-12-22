@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-##hello
-#bone jaw
-=======
+#This is the latest version of code chris >:(
 
-#Test for chris and lee or something
-
-#hi lee
-
->>>>>>> 0bd371e515e43df4bc356ae24e7c5c01587add5e
+#CHRIS IF YOU SEE THIS SAY ABRACADABRA
