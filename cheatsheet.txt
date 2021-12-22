@@ -1,6 +1,6 @@
 To save your changes to the server:
 git add .
-git commit -m "your message here"
+git commit -m "describe what youve changed"
 git push
 
 To download changes made by others 
