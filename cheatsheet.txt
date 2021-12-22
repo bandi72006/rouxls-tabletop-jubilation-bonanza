@@ -1,0 +1,8 @@
+To save your changes to the server:
+git add .
+git commit -m "describe what youve changed"
+git push
+
+To download changes made by others 
+git pull
+
