@@ -8,6 +8,7 @@
 import pygame  
 import time
 
+from network import Network
 from player import *
   
 pygame.init()  
@@ -22,9 +23,16 @@ FPS = 60
 clock = pygame.time.Clock()
 startTime = time.time()
   
+n = Network()
+
 while run:  
 
-    #Movement code=
+    #Network code
+
+    p2Info = n.send(player.x)
+    print("p2info: ", p2Info)
+
+    #Movement code
     player.move()
 
     #Drawing code
